@@ -1,3 +1,5 @@
 Hello World!
 I am Masturoh Al-Ameen.
 I am excited to learn coding!
+I have been learning how to push my first task to Github.
+It's been interesting so far.
